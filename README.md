@@ -12,3 +12,5 @@ bun dev
 ```
 
 Open
+
+https://ebtech.netlify.app/ 
